@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "pnpm --filter @zkp-element/play dev",
     "docs:dev": "pnpm --filter @zkp-element/docs dev",
-    "docs:build": "pnpm --filter @zkp-element/docs dev",
+    "docs:build": "pnpm --filter @zkp-element/docs build",
     "docs:preview": "pnpm --filter @zkp-element/play preview",
     "test": "echo todo"
   },
