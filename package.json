@@ -8,7 +8,7 @@
     "docs:dev": "pnpm --filter @zkp-element/docs dev",
     "docs:build": "pnpm --filter @zkp-element/docs dev",
     "docs:preview": "pnpm --filter @zkp-element/play preview",
-    "test": "ehco todo"
+    "test": "echo todo"
   },
   "keywords": [],
   "author": "",
